@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: rest_app
+      username: root
+      password: example
+      authentication-database: admin
